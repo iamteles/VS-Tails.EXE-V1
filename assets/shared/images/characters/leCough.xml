@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sem título-1.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cough down0000" x="2257" y="731" width="487" height="649" frameX="-32" frameY="0" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0001" x="3" y="731" width="517" height="633" frameX="-17" frameY="-16" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0002" x="1223" y="717" width="539" height="617" frameX="-6" frameY="-32" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0003" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0004" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0005" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0006" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0007" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0008" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0009" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0010" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0011" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0012" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0013" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0014" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0015" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0016" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0017" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0018" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0019" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0020" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0021" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0022" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0023" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0024" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0025" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0026" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0027" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0028" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough down0029" x="3302" y="677" width="552" height="609" frameX="0" frameY="-40" frameWidth="552" frameHeight="649"/>
+	<SubTexture name="cough idle0000" x="1015" y="1337" width="537" height="556" frameX="0" frameY="-69" frameWidth="537" frameHeight="625"/>
+	<SubTexture name="cough idle0001" x="2257" y="1383" width="523" height="562" frameX="-7" frameY="-63" frameWidth="537" frameHeight="625"/>
+	<SubTexture name="cough idle0002" x="3" y="1367" width="511" height="582" frameX="-13" frameY="-43" frameWidth="537" frameHeight="625"/>
+	<SubTexture name="cough idle0003" x="517" y="1378" width="492" height="602" frameX="-22" frameY="-23" frameWidth="537" frameHeight="625"/>
+	<SubTexture name="cough idle0004" x="3302" y="1289" width="483" height="625" frameX="-27" frameY="0" frameWidth="537" frameHeight="625"/>
+	<SubTexture name="cough idle0005" x="3302" y="1289" width="483" height="625" frameX="-27" frameY="0" frameWidth="537" frameHeight="625"/>
+	<SubTexture name="cough idle0006" x="3302" y="1289" width="483" height="625" frameX="-27" frameY="0" frameWidth="537" frameHeight="625"/>
+	<SubTexture name="cough idle0007" x="3302" y="1289" width="483" height="625" frameX="-27" frameY="0" frameWidth="537" frameHeight="625"/>
+	<SubTexture name="cough idle0008" x="3302" y="1289" width="483" height="625" frameX="-27" frameY="0" frameWidth="537" frameHeight="625"/>
+	<SubTexture name="cough idle0009" x="3302" y="1289" width="483" height="625" frameX="-27" frameY="0" frameWidth="537" frameHeight="625"/>
+	<SubTexture name="cough idle0010" x="3302" y="1289" width="483" height="625" frameX="-27" frameY="0" frameWidth="537" frameHeight="625"/>
+	<SubTexture name="cough idle0011" x="3302" y="1289" width="483" height="625" frameX="-27" frameY="0" frameWidth="537" frameHeight="625"/>
+	<SubTexture name="cough idle0012" x="3302" y="1289" width="483" height="625" frameX="-27" frameY="0" frameWidth="537" frameHeight="625"/>
+	<SubTexture name="cough idle0013" x="3302" y="1289" width="483" height="625" frameX="-27" frameY="0" frameWidth="537" frameHeight="625"/>
+	<SubTexture name="cough left0000" x="523" y="732" width="489" height="643" frameX="0" frameY="-68" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough left0001" x="2812" y="3" width="522" height="671" frameX="0" frameY="-44" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0002" x="1785" y="3" width="534" height="711" frameX="-11" frameY="-13" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0003" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0004" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0005" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0006" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0007" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0008" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0009" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0010" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0011" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0012" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0013" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0014" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0015" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0016" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0017" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0018" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0019" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0020" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0021" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0022" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0023" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0024" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0025" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0026" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0027" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0028" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough left0029" x="616" y="3" width="604" height="726" frameX="-1" frameY="0" frameWidth="605" frameHeight="726"/>
+	<SubTexture name="cough right0000" x="523" y="732" width="489" height="643" frameX="-111" frameY="-67" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough right0001" x="3337" y="3" width="518" height="671" frameX="-82" frameY="-39" frameWidth="610" frameHeight="725"/>
+	<SubTexture name="cough right0002" x="1223" y="3" width="559" height="711" frameX="-46" frameY="-10" frameWidth="610" frameHeight="725"/>
+	<SubTexture name="cough right0003" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0004" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0005" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0006" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0007" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0008" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0009" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0010" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0011" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0012" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0013" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0014" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0015" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0016" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0017" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0018" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0019" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0020" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0021" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0022" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0023" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0024" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0025" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0026" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0027" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0028" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough right0029" x="3" y="3" width="610" height="725"/>
+	<SubTexture name="cough up0000" x="523" y="732" width="489" height="643" frameX="0" frameY="-82" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0001" x="1765" y="717" width="489" height="671" frameX="0" frameY="-54" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0002" x="2812" y="677" width="487" height="711" frameX="-1" frameY="-14" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0003" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0004" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0005" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0006" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0007" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0008" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0009" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0010" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0011" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0012" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0013" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0014" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0015" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0016" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0017" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0018" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0019" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0020" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0021" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0022" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0023" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0024" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0025" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0026" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0027" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0028" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+	<SubTexture name="cough up0029" x="2322" y="3" width="487" height="725" frameX="-1" frameY="0" frameWidth="489" frameHeight="725"/>
+</TextureAtlas>

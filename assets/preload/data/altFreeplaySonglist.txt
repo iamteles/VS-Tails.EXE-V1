@@ -1,0 +1,5 @@
+Tutorial:gf:1:#9271FD
+Chasing:tailsHappy:1:#9271FD
+Darkness:tails:1:#9271FD
+Sidekick:sonictails:1:#9271FD
+Octane:cough:1:#9271FD
